@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "ded"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:redstone_block"
+    },
+    "b": {
+      "item": "minecraft:redstone"
+    },
+    "c": {
+      "item": "minecraft:string"
+    },
+    "d": {
+      "item": "minecraft:tripwire_hook"
+    },
+    "e": {
+      "item": "minecraft:music_disc_strad"
+    }
+  },
+  "result": {
+    "item": "disarmstring:disarmer",
+    "count": 1
+  }
+}

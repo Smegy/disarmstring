@@ -1,0 +1,46 @@
+{
+  "mod_elements": [
+    {
+      "name": "Disarmer",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disarmer",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/disarmstring/item/DisarmerItem.java",
+          "src/main/resources/assets/disarmstring/models/item/disarmer.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item.disarmstring.disarmer": "Disarmer"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "disarmstring",
+    "modName": "DisarmString",
+    "version": "1.0.0",
+    "author": "uvojt, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "modElementsPackage": "net.mcreator.disarmstring"
+  },
+  "mcreatorVersion": 202400342716
+}
